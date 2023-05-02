@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hko5dfsvPpY2sxYTDN4vGVloCG/QkWAfPUMybJcnPSwbMc0iL9GFeH5AXXt+R7MdZYZ4RKMzVdiNoDhJfXnrdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akara\\Documents\\FONTYS\\SchoolProject\\SchoolProject\\SchoolProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

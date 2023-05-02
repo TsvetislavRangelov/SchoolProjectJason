@@ -1,0 +1,16 @@
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.exe
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.deps.json
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.runtimeconfig.json
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.runtimeconfig.dev.json
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.dll
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\ref\SchoolProject.dll
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\bin\Debug\net5.0\SchoolProject.pdb
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.csproj.AssemblyReference.cache
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.AssemblyInfoInputs.cache
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.AssemblyInfo.cs
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.dll
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\ref\SchoolProject.dll
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.pdb
+C:\Users\akara\Documents\FONTYS\SchoolProject\SchoolProject\obj\Debug\net5.0\SchoolProject.genruntimeconfig.cache
